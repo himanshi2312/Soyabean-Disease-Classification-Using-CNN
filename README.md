@@ -1,5 +1,5 @@
 ---
-# Plant Disease Detection Model
+# Soyabean Disease Detection Model
 
 This repository contains a deep learning model for detecting plant diseases using convolutional neural networks (CNNs). The model is based on the InceptionV3 architecture and has been trained on a dataset of images containing various plant diseases.
 
