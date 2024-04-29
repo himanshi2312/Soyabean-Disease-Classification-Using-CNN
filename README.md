@@ -37,7 +37,7 @@ This repository contains a deep learning model for detecting plant diseases usin
 To run the model using Streamlit, execute the following command:
 
 ```bash
-streamlit run plant_disease_detection.py
+streamlit run Streamlit.py
 ```
 
 This will start a Streamlit server and open a new tab in your web browser displaying the user interface for uploading images and making predictions.
